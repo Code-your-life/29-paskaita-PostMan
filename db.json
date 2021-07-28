@@ -1,0 +1,47 @@
+{
+    "experience": [
+        {
+          "companyName": "Google",
+          "position": "Lead UI/UX Designer",
+          "startYear": 2016,
+          "finishYear": 2022,
+          "tasks": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. "
+        },
+        {
+          "companyName": "Adobe",
+          "position": "Senior UI/UX Designer",
+          "startYear": 2013,
+          "finishYear": 2016,
+          "tasks": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33  by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham."
+        },
+        {
+          "companyName": "Google",
+          "position": "Junio UI/UX Designer",
+          "startYear": 2011,
+          "finishYear": 2013,
+          "tasks": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature."
+        }
+      ],
+    "skills": [
+        {
+          "title": "JavaScript",
+          "level": 95
+        },
+        {
+          "title": "PHP",
+          "level": 85
+        },
+        {
+          "title": "HTML/CSS",
+          "level": 100
+        },
+        {
+          "title": "Smarty/Twig",
+          "level": 75
+        },
+        {
+          "title": "Perl",
+          "level": 90
+        }
+      ]    
+  }

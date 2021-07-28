@@ -1,0 +1,19 @@
+{
+  "name": "29-paskaita-postman",
+  "version": "1.0.0",
+  "description": "test API",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-your-life/29-paskaita-PostMan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Code-your-life/29-paskaita-PostMan/issues"
+  },
+  "homepage": "https://github.com/Code-your-life/29-paskaita-PostMan#readme"
+}
